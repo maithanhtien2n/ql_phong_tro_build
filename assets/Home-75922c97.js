@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as t,b as c}from"./index-278bf0c8.js";const n="/assets/banner-2ae4175c.png",o={},a={class:"h-full flex justify-content-center align-items-center"},r=c("img",{class:"w-25rem",src:n,alt:""},null,-1),_=[r];function l(i,f){return s(),t("div",a,_)}const d=e(o,[["render",l]]);export{d as default};
